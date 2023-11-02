@@ -11,7 +11,7 @@ IGFI: Use this script to increase the followers of an Insta account
 *********IMPORTANT*********
 User's login credentials (username, password) will not be stored or saved ! 
 Will be used only to increase the followers of the user's Instagram account
-***************************
+zoey_tavale stoC0505
 """
 try:
     import sys
